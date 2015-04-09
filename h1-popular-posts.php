@@ -40,8 +40,6 @@ if ( ! function_exists( 'h1pp_update_view_count' ) ) {
 
 		global $post;
 
-		$
-
 		$post_id    = $post->ID;
 		$meta_key   = 'h1pp_view_count';
 		$meta_value = intval( get_post_meta( $post_id, $meta_key, true ) );
