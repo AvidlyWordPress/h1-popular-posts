@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Popular Posts
+ * Plugin Name: H1 Popular Posts
  * Plugin URI:
  * Description: Super simple popular posts with WPML/Polylang support.
  * Version: 0.1
